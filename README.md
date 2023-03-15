@@ -9,9 +9,7 @@
 
 # скачиваем необходимые зависимости одной командой
 
-sudo apt-get install wget jq ocl-icd-opencl-dev \ 
-
-libopencl-clang-dev libgomp1 ocl-icd-libopencl1 -y
+`sudo apt-get install wget jq ocl-icd-opencl-dev \ libopencl-clang-dev libgomp1 ocl-icd-libopencl1 -y`
 
 # скачиваем исполняемые файлы и выводим их версии одной командой
 
